@@ -1,0 +1,1 @@
+Confliting file
